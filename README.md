@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a **passionate web developer** with a strong f
 
 I’m always on a quest for **growth and innovation**, and here’s a little about where I am today:
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m learning **Full-stack Development** and enhancing my skills in **React**, **Node.js**, and **Machine Learning**
+- 🔭 I’m currently working on **React projects and Full-stack Development**
+- 🌱 I’m learning **Machine Learning** and enhancing my skills in **React**, **Node.js**, and **MERN Stack**
 - 💬 Ask me about **React**, **Node.js**, **JWT Authentication**, and the **MERN Stack**
 - ⚡ **Fun Fact**: I absolutely love **solving coding challenges** and **contributing to open-source** projects!
 
@@ -20,7 +20,7 @@ I’m always on a quest for **growth and innovation**, and here’s a little abo
 Here’s a glimpse of the tools I use to build **innovative solutions**:
 
 ### **Frontend:**
-- React, HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS
+- React, HTML, CSS, JavaScript , Bootstrap, Tailwind CSS
 
 ### **Backend:**
 - Node.js, Express, MongoDB, JWT, bcrypt
@@ -31,8 +31,7 @@ Here’s a glimpse of the tools I use to build **innovative solutions**:
 ### **Database:**
 - MongoDB, MySQL
 
-### **Other:**
-- Docker, Heroku, Vercel, AWS
+
 
 ---
 
@@ -40,36 +39,47 @@ Here’s a glimpse of the tools I use to build **innovative solutions**:
 
 Check out some of the amazing projects I’ve worked on! 🚀
 
-### 1. **[Project Name](GitHub Link)**
+### 1. **[Blog Website](https://github.com/Debashishk68/Blog-website)**
 
-- **Description**: A brief description of what the project does.
-- **Tech Stack**: React, Node.js, MongoDB
+- **Description**: A fully functional blog website where users can read, write, and comment on posts.
+- **Tech Stack**: React, Node.js, MongoDB, JWT Authentication
 - **Features**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - User authentication and authorization
+  - Write, edit, and delete posts
+  - Commenting system
 
 ---
 
-### 2. **[Project Name](GitHub Link)**
+### 2. **[Tesla UI Clone using React](https://github.com/Debashishk68/tesla-ui-clone-using-react)**
 
-- **Description**: A brief description of what the project does.
-- **Tech Stack**: React, Express, PostgreSQL
+- **Description**: A clone of the Tesla website UI built using React.
+- **Tech Stack**: React, CSS, JavaScript
 - **Features**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - Responsive UI
+  - Dynamic car model section
+  - Tesla product showcase
 
 ---
 
-### 3. **[Project Name](GitHub Link)**
+### 3. **[YouTube Clone using React](https://github.com/Debashishk68/Youtube-Clone-using-React)**
 
-- **Description**: A brief description of what the project does.
-- **Tech Stack**: React, Node.js, JWT Authentication
+- **Description**: A YouTube clone with features like video search and playback.
+- **Tech Stack**: React, JavaScript, API Integration
 - **Features**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - Video search functionality
+  - Displaying video information like title, views, etc.
+  - Video playback feature
+
+---
+
+### 4. **[Movies App using HTML, CSS, JS](https://github.com/Debashishk68/MoviesApp-using-html-css-js)**
+
+- **Description**: A simple movies application using HTML, CSS, and JavaScript.
+- **Tech Stack**: HTML, CSS, JavaScript
+- **Features**:
+  - Display movie details using an API
+  - Search for movies
+  - Display movie posters and info
 
 ---
 
